@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 xg
+=======
+<<<<<<< HEAD
+el cabeza de glande
+=======
+xgfh
+>>>>>>> 6841a0fe184999007ef1332e0d34b757c2b0c2c7
+>>>>>>> 2f713c946fa2529ce0e57d1058d94e75e2e19db7
