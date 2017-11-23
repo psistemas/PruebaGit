@@ -1,2 +1,3 @@
 public class ASLAM extends ARIAS{
+	String ARIAS;
 }
