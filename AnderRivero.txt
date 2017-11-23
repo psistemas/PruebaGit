@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 No volveran 
 
 *esto es nuevo*
+=======
+No volveran: NEGRO
+>>>>>>> df0fccf360b612404b71be0bcf7fc105930d9b1e
